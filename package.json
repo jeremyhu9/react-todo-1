@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jeremyhu9/react-todo-1#readme",
   "dependencies": {
-    "react": "^0.14.8"
+    "react": "^0.14.8",
+    "webpack": "^1.12.14"
   }
 }
